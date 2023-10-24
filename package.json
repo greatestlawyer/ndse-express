@@ -1,0 +1,26 @@
+{
+  "name": "ndse-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greatestlawyer/ndse-express.git"
+  },
+  "author": "Artur Filonov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/greatestlawyer/ndse-express/issues"
+  },
+  "homepage": "https://github.com/greatestlawyer/ndse-express#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
